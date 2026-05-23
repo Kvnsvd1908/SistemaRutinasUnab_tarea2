@@ -1,0 +1,43 @@
+# Formato: codigo;nombre;tipo;intensidad;tiempoEstimadoMinutos;descripcionEjecucion;semanaUltimoUso
+E001;Trote Suave de Calentamiento;CARDIOVASCULAR;BASICO;20;Mantener un ritmo constante y respiracion controlada;1
+E002;Sentadillas Clasicas;FUERZA;BASICO;15;Bajar con la espalda recta hasta los 90 grados;1
+E003;Abdominales Cortos;FUERZA;BASICO;10;Contraer el abdomen sin forzar el cuello;1
+E004;Salto con Cuerda;CARDIOVASCULAR;BASICO;12;Saltos cortos amortiguando con la punta de los pies;1
+E005;Trote Intenso;CARDIOVASCULAR;INTERMEDIO;25;Trote rapido manteniendo las pulsaciones altas;1
+E006;Estocadas con Mancuerna;FUERZA;INTERMEDIO;20;Dar un paso al frente cuidando que la rodilla no pase la punta del pie;1
+E007;Flexiones de Brazo;FUERZA;INTERMEDIO;12;Mantener el cuerpo alineado como una tabla al bajar;1
+E008;Bicicleta Fija;CARDIOVASCULAR;INTERMEDIO;30;Pedaleo constante con resistencia media;1
+E009;Sprints de Alta Velocidad;CARDIOVASCULAR;AVANZADO;15;Correr a maxima velocidad por 30 segundos y descansar 30;1
+E010;Press de Banca;FUERZA;AVANZADO;20;Levantamiento de barra controlado cuidando el pecho;1
+E011;Burpees Completos;CARDIOVASCULAR;ALTO_RENDIMIENTO;15;Combinacion de flexion de brazos y salto vertical continuo;1
+E012;Peso Muerto Pesado;FUERZA;ALTO_RENDIMIENTO;18;Levantamiento desde el suelo manteniendo la tension lumbar;1
+E013;Caminata Rapida en Cinta;CARDIOVASCULAR;BASICO;18;Caminar con postura erguida aumentando suavemente la velocidad;1
+E014;Bicicleta Suave;CARDIOVASCULAR;BASICO;20;Pedalear con baja resistencia manteniendo respiracion estable;1
+E015;Step Basico;CARDIOVASCULAR;BASICO;12;Subir y bajar de una plataforma baja alternando las piernas;1
+E016;Elevacion de Rodillas Suave;CARDIOVASCULAR;BASICO;10;Elevar rodillas de forma controlada sin impacto excesivo;1
+E017;Puente de Gluteos;FUERZA;BASICO;12;Elevar la cadera apretando gluteos y manteniendo espalda neutra;1
+E018;Plancha de Rodillas;FUERZA;BASICO;10;Mantener abdomen activo apoyando rodillas y antebrazos;1
+E019;Remo con Banda Elasticas;FUERZA;BASICO;14;Tirar la banda hacia el torso juntando suavemente los omoplatos;1
+E020;Elevaciones Laterales sin Peso;FUERZA;BASICO;10;Levantar brazos hasta la altura de hombros con movimiento controlado;1
+E021;Eliptica Moderada;CARDIOVASCULAR;INTERMEDIO;25;Mantener ritmo constante con resistencia media sin perder postura;1
+E022;Intervalos en Bicicleta;CARDIOVASCULAR;INTERMEDIO;22;Alternar un minuto rapido con un minuto de recuperacion activa;1
+E023;Jumping Jacks Controlados;CARDIOVASCULAR;INTERMEDIO;15;Abrir y cerrar piernas coordinando brazos con impacto moderado;1
+E024;Escalador de Montana;CARDIOVASCULAR;INTERMEDIO;14;Llevar rodillas al pecho alternadamente manteniendo tronco firme;1
+E025;Remo con Mancuernas;FUERZA;INTERMEDIO;18;Inclinar torso y llevar mancuernas hacia la cintura con control;1
+E026;Sentadilla Goblet;FUERZA;INTERMEDIO;18;Sostener una mancuerna al pecho y bajar con rodillas alineadas;1
+E027;Press Militar con Mancuernas;FUERZA;INTERMEDIO;16;Empujar mancuernas sobre la cabeza sin arquear la espalda;1
+E028;Plancha Frontal Completa;FUERZA;INTERMEDIO;12;Mantener cuerpo alineado apoyando antebrazos y puntas de pies;1
+E029;Carrera con Cambios de Ritmo;CARDIOVASCULAR;AVANZADO;24;Alternar tramos rapidos y moderados manteniendo tecnica de carrera;1
+E030;Saltos al Cajon;CARDIOVASCULAR;AVANZADO;16;Saltar sobre una plataforma estable aterrizando con rodillas flexionadas;1
+E031;Cuerda Doble Ritmo;CARDIOVASCULAR;AVANZADO;14;Saltar cuerda aumentando velocidad sin perder coordinacion;1
+E032;Circuito HIIT Corto;CARDIOVASCULAR;AVANZADO;20;Combinar trabajo intenso y pausas breves durante todo el bloque;1
+E033;Dominadas Asistidas;FUERZA;AVANZADO;15;Elevar el cuerpo con ayuda controlada activando espalda y brazos;1
+E034;Sentadilla con Barra;FUERZA;AVANZADO;22;Bajar con barra apoyada de forma segura manteniendo columna estable;1
+E035;Fondos en Paralelas;FUERZA;AVANZADO;14;Flexionar codos bajando el cuerpo con control y empujar al subir;1
+E036;Peso Muerto Rumano;FUERZA;AVANZADO;18;Inclinar cadera hacia atras manteniendo piernas semi flexionadas;1
+E037;Sprint en Pendiente;CARDIOVASCULAR;ALTO_RENDIMIENTO;18;Correr cuesta arriba en tramos cortos con recuperacion controlada;1
+E038;Assault Bike Intensiva;CARDIOVASCULAR;ALTO_RENDIMIENTO;16;Usar brazos y piernas a maxima potencia en intervalos exigentes;1
+E039;Burpees con Salto Largo;CARDIOVASCULAR;ALTO_RENDIMIENTO;15;Realizar burpee completo agregando desplazamiento hacia adelante;1
+E040;Thrusters con Barra;FUERZA;ALTO_RENDIMIENTO;20;Combinar sentadilla frontal y empuje sobre cabeza de forma explosiva;1
+E041;Clean con Mancuernas;FUERZA;ALTO_RENDIMIENTO;18;Llevar mancuernas desde el suelo a hombros coordinando cadera y brazos;1
+E042;Dominadas Estrictas;FUERZA;ALTO_RENDIMIENTO;16;Elevar el cuerpo sin impulso hasta superar la barra con el menton;1

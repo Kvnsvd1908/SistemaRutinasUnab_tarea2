@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Swing](https://img.shields.io/badge/UI-Java_Swing-blue?style=for-the-badge)
 
 Software de escritorio desarrollado en **Java** diseñado para automatizar la planificación de entrenamientos deportivos. El sistema optimiza la selección de ejercicios desde un catálogo en texto plano, aplicando restricciones lógicas temporales para prevenir la sobrecarga y fatiga muscular.
 

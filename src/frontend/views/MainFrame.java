@@ -45,7 +45,7 @@ public class MainFrame extends JFrame implements GimnasioListener {
         navegadorPaneles.show(contenedorPrincipal, "INICIO"); // Mostrar la pantalla de bienvenida al arrancar
     }
 
-    // --- PANTALLA 1: BIENVENIDA / INICIO ---
+    //  PANTALLA 1 BIENVENIDA 
     private JPanel crearPanelInicio() {
         JPanel panel = new JPanel(new BorderLayout(15, 15));
         panel.setBorder(BorderFactory.createEmptyBorder(30, 30, 30, 30));
@@ -74,7 +74,7 @@ public class MainFrame extends JFrame implements GimnasioListener {
         return panel;
     }
 
-    // --- PANTALLA 2: CARGA DEL ARCHIVO PLANO ---
+    // PANTALLA 2: CARGA DEL ARCHIVO PLANO 
     private JPanel crearPanelCarga() {
         JPanel panel = new JPanel(new BorderLayout(10, 10));
         panel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
@@ -109,7 +109,7 @@ public class MainFrame extends JFrame implements GimnasioListener {
         return panel;
     }
 
-    // --- PANTALLA 3: FORMULARIO DE GENERACIÓN (FILTROS) ---
+    // PANTALLA 3: FORMULARIO DE GENERACIÓN 
     private JPanel crearPanelGeneracion() {
         JPanel panel = new JPanel(new BorderLayout(15, 15));
         panel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
@@ -159,7 +159,7 @@ public class MainFrame extends JFrame implements GimnasioListener {
         return panel;
     }
 
-    // --- PANTALLA 4: REVISIÓN DE LA RUTINA GENERADA Y RESUMEN ---
+    //  PANTALLA 4: REVISIÓN DE LA RUTINA GENERADA Y RESUMEN
     private JPanel crearPanelRevision() {
         JPanel panel = new JPanel(new BorderLayout(10, 10));
         panel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
@@ -184,9 +184,7 @@ public class MainFrame extends JFrame implements GimnasioListener {
         return panel;
     }
 
-    // =========================================================================
-    //   IMPLEMENTACIÓN DEL LISTENER (Mecanismo Notificación-Suscripción Asincrónico)
-    // =========================================================================
+    //   IMPLEMENTACIÓN DEL LISTENER 
 
     @Override
     public void onCargaExitosa() {
